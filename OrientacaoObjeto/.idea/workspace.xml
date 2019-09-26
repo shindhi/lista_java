@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a887e2-98d9-4bb1-b9fa-b03ee6f0293c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RHutPNhFFI0QDXINpAXHFuAT6Z" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestaFuncionario (1)">
+    <configuration name="TestaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complementar.TestaConta" />
+      <module name="OrientacaoObjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="complementar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaFuncionario (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complementar.TestaFuncionario" />
+      <module name="OrientacaoObjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="complementar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteContaEAgencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clienteCartaoDeCredito.TesteContaEAgencia" />
+      <module name="OrientacaoObjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="empresaFuncionario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteGerente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clienteCartaoDeCredito.TesteGerente" />
+      <module name="OrientacaoObjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clienteCartaoDeCredito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMetodoTransfere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clienteCartaoDeCredito.TesteMetodoTransfere" />
+      <module name="OrientacaoObjeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clienteCartaoDeCredito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaFuncionario (1)" />
+        <item itemvalue="Application.TestaConta" />
+        <item itemvalue="Application.TesteMetodoTransfere" />
+        <item itemvalue="Application.TesteContaEAgencia" />
+        <item itemvalue="Application.TesteGerente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a887e2-98d9-4bb1-b9fa-b03ee6f0293c" name="Default Changelist" comment="" />
+      <created>1569336556971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569336556971</updated>
+    </task>
+    <servers />
+  </component>
+</project>
